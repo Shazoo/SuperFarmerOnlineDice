@@ -14,7 +14,7 @@ runbtn.addEventListener('click', e=> {
   show_ele_2.innerText = get_random_animal(dice2_arr);
   runbtn.disabled  = true;
   runbtn.innerText = '等等再扔';
-    runbtn.innerText = '等等再扔';
+
   setTimeout(function () {
     runbtn.disabled  = false;
     runbtn.innerText = '扔骰子';

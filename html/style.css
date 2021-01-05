@@ -32,7 +32,8 @@ h1 {
 }
 
 .tour {
-  text-align: center;
+  display: inline-block;
+  width: 350px;
 }
 
 .tour_item {
