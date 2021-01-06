@@ -17,7 +17,7 @@
 
 没得说，html目录内容直接丢httpd里面，index.html跑起来即可。图片都没有，利用unicode的symbols字体。
 
-更新下：部署到了免费空间内：[点此游玩](https://super-farmer-online-dice.vercel.app/)
+更新下：部署到了免费空间内：[点此游玩](https://www.anjiawa.top/super_farmer_online_dice/index.html)
 
 ![image-20210105092948434](https://img.0w0.io/u/s!AkNcBZ_Plzzpgp8gEtFxiu-jJxAIiA/image-20210105092948434.png)
 
