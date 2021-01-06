@@ -17,11 +17,13 @@
 
 没得说，html目录内容直接丢httpd里面，index.html跑起来即可。图片都没有，利用unicode的symbols字体。
 
+更新下：部署到了免费空间内：[点此游玩](https://super-farmer-online-dice.vercel.app/)
+
 ![image-20210105092948434](https://img.0w0.io/u/s!AkNcBZ_Plzzpgp8gEtFxiu-jJxAIiA/image-20210105092948434.png)
 
 
 
-printable-assets里面的内容是适合A4打印的卡牌。其实可以自制游戏的。不过，最终版权为先，仅当评估了。
+printable-assets里面的内容是适合A4打印的卡牌，打印下来自己裁开就得了。其实可以自制游戏的。不过，最终版权为先，仅当评估了。
 
 ![image-20210105101708342](https://img.0w0.io/u/s!AkNcBZ_Plzzpgp8xHo0ltzkcPKqmEg/image-20210105101708342.png)
 
@@ -40,7 +42,7 @@ printable-assets里面的内容是适合A4打印的卡牌。其实可以自制�
 - [x] 美化一点
 - [x] 改为html+js
 - [x] 发布到github上
-- [ ] 找个静态空间托管下
+- [x] 找个静态空间托管下
 
 
 
