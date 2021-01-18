@@ -7,8 +7,6 @@
 
 游戏官网：[见此](https://www.granna.pl/katalog-gier/0-wszystkie-gry/343-SUPER-FARMER-THE-CARD-GAME.html)
 
-淘宝购买链接：[领卷](https://s.click.taobao.com/HdbQVsu)
-
 玩法：[见此](https://witreader.com/articles/549625416756/)
 
 
